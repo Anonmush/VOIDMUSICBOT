@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/Anonmush/VOIDMUSICBOT">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -37,24 +37,14 @@ Click the below button to watch the video tutorial on deploying
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Anonmush/VOIDMUSICBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 ###  GET STRING SESSION FROM REPL RUN
 
  [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
 
-### Deploy to VPS 🏃
-```sh
-# Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
-$ cd VCsMusicBot
-# Upgrade sources
-# Install All Requirements 
-$ pip3 install -r requirements.txt
-# Fork This Repo and fill local.env and config.py both with your own values.Then Start The Bot
-$ python3 -m VCsMusicBot
-```
 
+`
 ### Features ✅
 
 - Thumbnail Support
@@ -112,12 +102,6 @@ $ python3 -m VCsMusicBot
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
 
-If you donlt like to play in linked channel:
- 1. Get your channel ID.
- 2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
- 4. add helper to channel
- 5. Simply send commands in your group.
 
 ### Commands for Sudo Users 👮
 - `/userbotleaveall` - remove assistant from all chats
@@ -130,6 +114,4 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 ### Credits
-#### Special Credits
-- [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
-- [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+@theonlyvoid
